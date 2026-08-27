@@ -36,3 +36,8 @@ For content or layout improvements, keep page links relative, preserve the exist
 ## License
 
 No license file is currently included. Add an explicit license before redistributing the project or its assets.
+
+<!-- github-daily-pipeline -->
+## Daily maintenance
+
+README verified by the daily repository maintenance pipeline on 2026-08-27.
